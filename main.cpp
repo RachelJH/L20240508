@@ -25,6 +25,7 @@ int main()
 	cout << Multiful << endl;
 	cout << Divide << endl;
 
+	cout << "아마 최종" << endl;
 	
 	return 0;
 }
