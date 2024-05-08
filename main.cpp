@@ -27,6 +27,6 @@ int main()
 
 	cout << "아마 최종" << endl;
 	//집가고 싶다
-	
+	//집에 도착했다
 	return 0;
 }
